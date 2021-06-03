@@ -1,0 +1,9 @@
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"/>
+
+<i class="far fa-user"></i>
+<i class="fas fa-search"></i>
+<i class="fas fa-caret-down"></i>
+<i class="fas fa-chevron-right"></i>
+<i class="fas fa-chevron-left"></i>
+<i class="far fa-calendar-check"></i>
+<i class="fab fa-instagram"></i>

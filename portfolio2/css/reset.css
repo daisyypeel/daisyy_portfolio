@@ -1,0 +1,18 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+body,div,ul,li,p,span,h1,h2,h3,h4,input,img,form,button,a,dl,dt,dd,section,strong,header,footer{margin:0; padding:0}
+
+header,section,footer{display:block}
+body,input{font-size:12px; font-family:'Noto Sans KR','본고딕','돋움',dotum,sans-serif}
+h1,h2,h3,h4{font-size:1em}
+
+ul{list-style:none}
+a:link, a:visited{text-decoration:none; color:#222}
+a:hover, a:active, a:focus{text-decoration:underline; color:#222}
+
+img{border:none}
+input[type="text"]{border:none}
+input,img{vertical-align: middle}
+strong{font-style:normal}
+

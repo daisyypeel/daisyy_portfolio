@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+.skip{width:1px;height:1px;overflow:hidden;line-height:0; text-indent:-999em}
+#skipMenu{position:absolute; width:100%; z-index:999}
+#skipMenu a{position:absolute; top:-100px}
+#skipMenu a:hover, #skipMenu a:active, #skipMenu a:focus{width:100%; position:absolute;top:0px;background-color:#222;color:#fff;display:block;text-align:center;padding:10px 0}
+
+.clear{clear:both !important}
+.clearfix:after{content:'';clear:both;display:block}
+
+.fl{float:left !important}
+.fr{float:right !important}
+.fn{float:none !important}
+
+.tac{text-align:center !important}
+.tar{text-align:right !important}
+.tal{text-align:left !important}
+.val{vertical-align:left !important}
+.var{vertical-align:right !important}
+.vam{vertical-align:middle !important}
+
+.pt5{padding-top:5px !important}
+.pt10{padding-top:10px !important}
+.pt15{padding-top:15px !important}
+.pt20{padding-top:20px !important}
+.pt25{padding-top:25px !important}
+.pt30{padding-top:30px !important}
+
+.pl5{padding-left:5px !important}
+.pl10{padding-left:10px !important}
+.pl15{padding-left:15px !important}
+.pl20{padding-left:20px !important}
+.pl25{padding-left:25px !important}
+.pl30{padding-left:30px !important}
+
+.pr5{padding-right:5px !important}
+.pr10{padding-right:10px !important}
+.pr15{padding-right:15px !important}
+.pr20{padding-right:20px !important}
+.pr25{padding-right:25px !important}
+.pr30{padding-right:30px !important}
+
+.pb5{padding-bottom:5px !important}
+.pb10{padding-bottom:10px !important}
+.pb15{padding-bottom:15px !important}
+.pb20{padding-bottom:20px !important}
+.pb25{padding-bottom:25px !important}
+.pb30{padding-bottom:30px !important}
+
+.mt5{margin-top:5px !important}
+.mt10{margin-top:10px !important}
+.mt15{margin-top:15px !important}
+.mt20{margin-top:20px !important}
+.mt25{margin-top:25px !important}
+.mt30{margin-top:30px !important}
+
+.ml5{margin-left:5px !important}
+.ml10{margin-left:10px !important}
+.ml15{margin-left:15px !important}
+.ml20{margin-left:20px !important}
+.ml25{margin-left:25px !important}
+.ml30{margin-left:30px !important}
+
+.mr5{margin-right:5px !important}
+.mr10{margin-right:10px !important}
+.mr15{margin-right:15px !important}
+.mr20{margin-right:20px !important}
+.mr25{margin-right:25px !important}
+.mr30{margin-right:30px !important}
+
+.mb5{margin-bottom:5px !important}
+.mb10{margin-bottom:10px !important}
+.mb15{margin-bottom:15px !important}
+.mb20{margin-bottom:20px !important}
+.mb25{margin-bottom:25px !important}
+.mb30{margin-bottom:30px !important}
+
+
+
+
+
+

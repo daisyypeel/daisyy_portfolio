@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+.skip{width:1px; height:1px; line-height: 0; overflow: hidden;text-indent: -999em}
+#skipMenu{width:100%;position: absolute;z-index: 999}
+#skipMenu a{position: absolute; top:-100px;}
+#skipMenu a:hover, #skipMenu a:active, #skipMenu a:focus{width:100%;position:absolute;top:0;background-color:#222;color:#fff;display: block;text-align: center;padding:10px 0}
+
+
+.clearfix:after{display: block;content:'';clear:both}
+
+.float_left{float:left}
+.float_right{float:right}
